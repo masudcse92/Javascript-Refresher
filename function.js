@@ -25,6 +25,14 @@
 
 // Array function 
 
-const hello = () => {
-    console.log("Hello Java");
+// const hello = () => {
+//     console.log("Hello Java");
+// }
+
+// anaoymous function
+
+function hello() {
+ return   function(){
+        console.log("Hello wordl");
+    };
 }
