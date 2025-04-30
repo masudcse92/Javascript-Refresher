@@ -5,8 +5,8 @@ function learn(topic){
 
    if (true){
     
-    let a = 6;
-    a = 5;
+    const a = 6;
+    
 
     console.log(a);
    }
